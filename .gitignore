@@ -1,0 +1,26 @@
+# Microsoft Office files
+*.doc
+*.docx
+*.docm
+*.xls
+*.xlsx
+*.xlsm
+*.xlsb
+*.ppt
+*.pptx
+*.pptm
+*.accdb
+*.mdb
+*.pub
+*.vsd
+*.vsdx
+*.one
+*.onetoc2
+*.pst
+*.ost
+*.mpp
+
+# Temporary files
+~$*.doc*
+~$*.xls*
+~$*.ppt*
